@@ -1,9 +1,6 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Skill Test FE
 
 ## Setup
-
 Make sure to install dependencies:
 
 ```bash
